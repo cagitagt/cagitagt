@@ -14,7 +14,7 @@ Information Technology graduate from Brawijaya University specializing in Full-S
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,vite,html,css,shadcn,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,vite,html,css,vscode,git" />
 </p>
 
 <p align="left">
