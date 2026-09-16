@@ -14,11 +14,11 @@ Information Technology graduate from Brawijaya University specializing in Full-S
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,git,typescript,vscode,react,nextjs,tailwind,vite,html,css,shadcn" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,vite,html,css,shadcn,vscode,git" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,nodejs,mysql,postgresql,graphql,figma,laravel,docker" />
+  <img src="https://skillicons.dev/icons?i=express,nodejs,laravel,mysql,postgresql,graphql,docker,figma" />
 </p>
 
 ---
