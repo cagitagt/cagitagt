@@ -50,5 +50,6 @@ Information Technology graduate from Brawijaya University specializing in Full-S
 <br>
 
 <p align="center">
+  𔓘
   <i>still learning, still building.</i>
 </p>
