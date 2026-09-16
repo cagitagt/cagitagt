@@ -42,7 +42,7 @@ Information Technology graduate from Brawijaya University specializing in Full-S
     <img src="https://skillicons.dev/icons?i=discord" width="32" height="32" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.stackoverflow.com/users/cagitaa" target="_blank" rel="noreferrer">
+  <a href="https://www.stackoverflow.com/users/27320308/cagitaa" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/stackoverflow" width="32" height="32" alt="Stack Overflow" />
   </a>
 </p>
