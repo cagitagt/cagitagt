@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer**
 
-Information Technology graduate specializing in Full-Stack Web Development, focused on building modern, practical, and user-centered web applications. Experienced with React, Next.js, TypeScript, JavaScript, and Laravel, with additional experience in UI/UX design using Figma.Currently focused on strengthening my full-stack development skills, building real-world projects, and growing as a software engineer.
+I'm a Full-Stack Web Developer focused on building modern, practical, and user-centered web applications. I enjoy working across the stack, from crafting frontend experiences with React, Next.js, TypeScript, and JavaScript to building backend systems with Laravel and working with databases. I also have an interest in UI/UX design using Figma and enjoy turning ideas into functional, well-designed web applications. Currently, I'm deepening my full-stack development skills through hands-on projects and continuing to grow as a software engineer.
 
 🌍 I'm based in Indonesia
 ✉️ You can contact me at [cagitadianayunin@gmail.com](mailto:cagitadianayunin@gmail.com)
