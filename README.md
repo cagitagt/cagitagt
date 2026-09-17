@@ -4,7 +4,7 @@
 
 **Full-Stack Web Developer**
 
-Information Technology graduate from Brawijaya University specializing in Full-Stack Web Development, with around two years of active involvement in web development and UI/UX design through academic, personal, and real-world projects. Completed an 11-month Front-End Developer internship and developed web applications across various projects and environments. Experienced in React, Next.js, TypeScript, JavaScript, Laravel, and modern web development tools, with additional experience in UI/UX design using Figma. Seeking a Full-Stack Web Developer role to contribute to real-world products and continue growing as a software engineer.
+Information Technology graduate specializing in Full-Stack Web Development, focused on building modern, practical, and user-centered web applications. Experienced with React, Next.js, TypeScript, JavaScript, and Laravel, with additional experience in UI/UX design using Figma.Currently focused on strengthening my full-stack development skills, building real-world projects, and growing as a software engineer.
 
 🌍 I'm based in Indonesia
 ✉️ You can contact me at [cagitadianayunin@gmail.com](mailto:cagitadianayunin@gmail.com)
